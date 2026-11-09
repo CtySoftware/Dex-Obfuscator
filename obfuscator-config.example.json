@@ -1,0 +1,26 @@
+{
+    "excludeClasses": [
+        "com/example/app/MainApplication",
+        "com/example/app/NativeBridge"
+    ],
+    "enableJniFieldProtection": false,
+    "jniKeepFields": [
+        "isJavaAPI"
+    ],
+    "enableRename": true,
+    "enableStringEncryption": true,
+    "enableOpaquePredicates": true,
+    "enableControlFlow": true,
+    "enableIllegalIdentifiers": true,
+    "enableFakeTryCatch": true,
+    "enableControlFlowFlattening": false,
+    "enableNumberObfuscation": true,
+    "enableGotoObfuscation": true,
+    "enableReflectionProxy": true,
+    "enableSourceErase": true,
+    "enableBogusBlocks": true,
+    "enableFieldScramble": true,
+    "enableIrreducibleFlow": true,
+    "enableReflectiveDispatch": true,
+    "androidJarPath": "C:/Android/Sdk/platforms/android-34/android.jar"
+}

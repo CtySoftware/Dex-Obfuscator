@@ -1,0 +1,12 @@
+build/
+*.class
+*.jar
+!libs/*.jar
+obfuscator-config.json
+mapping.txt
+obf_jni_map.h
+smali_references.txt
+*.bak
+.idea/
+*.iml
+out/
